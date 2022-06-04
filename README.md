@@ -9,5 +9,3 @@ To run:
 
 ## Whats Chat Bot
 This chat bot will ask question from user related to order such as what items they would like to have. The size of the item such as small,big and so on. It will also ask for extra items like drinks and user will have choice to opt for it or not. Once done the user will see the total price with placed order and time to pick up.
-
-jsdhjsdfkdsfldsfdsfj
